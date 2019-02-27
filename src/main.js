@@ -10,6 +10,7 @@ Vue.use(Vant);
 import { Tabbar, TabbarItem } from 'vant';
 
 Vue.use(Tabbar).use(TabbarItem);
+
 Vue.config.productionTip = false
 
 /* eslint-disable no-new */
